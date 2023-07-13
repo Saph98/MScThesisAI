@@ -1,0 +1,379 @@
+K-means feature contributions output
+
+
+Weight: 0.0
+Cluster 0: Index(['category_misc_net', 'merchant_freq', 'hour', 'month', 'day'], dtype='object')
+Mean Values:
+category_misc_net: 1.9321280815228756
+merchant_freq: 1.3216278271652457
+hour: 0.9008582537485097
+month: 0.8850888945519607
+day: 0.8683755645951757
+Cluster 1: Index(['hour', 'month', 'day', 'state_encoded', 'first_freq'], dtype='object')
+Mean Values:
+hour: 0.970286383513045
+month: 0.8909007252792404
+day: 0.8693057119434399
+state_encoded: 0.8468935995753074
+first_freq: 0.8272308485312304
+Cluster 2: Index(['category_shopping_net', 'category_shopping_pos', 'state_encoded',
+       'month', 'day'],
+      dtype='object')
+Mean Values:
+category_shopping_net: 1.0488348417017117
+category_shopping_pos: 0.9205180329792854
+state_encoded: 0.9096052783537945
+month: 0.8905500565276339
+day: 0.8765284222769563
+
+Weight: 0.5
+Cluster 0: Index(['category_grocery_pos', 'category_gas_transport', 'merchant_freq',
+       'hour', 'street_freq'],
+      dtype='object')
+Mean Values:
+category_grocery_pos: 2.4002011863920356
+category_gas_transport: 1.375389892719299
+merchant_freq: 1.0288660945765644
+hour: 1.021983326310457
+street_freq: 0.9982817101880648
+Cluster 1: Index(['category_shopping_net', 'category_shopping_pos', 'state_encoded',
+       'month', 'day'],
+      dtype='object')
+Mean Values:
+category_shopping_net: 1.0255273205600468
+category_shopping_pos: 0.9833724295815317
+state_encoded: 0.9041267701565374
+month: 0.8837576283493839
+day: 0.8771121635407693
+Cluster 2: Index(['category_misc_net', 'hour', 'month', 'day', 'first_freq'], dtype='object')
+Mean Values:
+category_misc_net: 0.9869414027719691
+hour: 0.936513346540509
+month: 0.8920232008359306
+day: 0.8639603815300851
+first_freq: 0.842438928424834
+
+Weight: 1.0
+Cluster 0: Index(['gender_f', 'gender_m', 'first_freq', 'hour', 'age'], dtype='object')
+Mean Values:
+gender_f: 1.5325277838729234
+gender_m: 1.5325277838729234
+first_freq: 1.012944294082726
+hour: 0.8999217759744956
+age: 0.896570409611773
+Cluster 1: Index(['hour', 'month', 'age', 'day', 'state_encoded'], dtype='object')
+Mean Values:
+hour: 0.9433587492153794
+month: 0.8903779550391273
+age: 0.8901045026523113
+day: 0.873781050676448
+state_encoded: 0.8529493254646321
+Cluster 2: Index(['street_freq', 'category_shopping_net', 'state_encoded', 'city_freq',
+       'zip'],
+      dtype='object')
+Mean Values:
+street_freq: 0.9976718859084909
+category_shopping_net: 0.943140112215137
+state_encoded: 0.9427736247623463
+city_freq: 0.9348525584429441
+zip: 0.9129402747766159
+
+Weight: 1.5
+Cluster 0: Index(['age', 'zip', 'gender_m', 'gender_f', 'hour'], dtype='object')
+Mean Values:
+age: 1.2030565635696222
+zip: 1.1589733381223715
+gender_m: 0.9787750772184792
+gender_f: 0.9787750772184792
+hour: 0.8982602091073212
+Cluster 1: Index(['gender_f', 'gender_m', 'age', 'zip', 'first_freq'], dtype='object')
+Mean Values:
+gender_f: 2.2987916758097113
+gender_m: 2.2987916758097113
+age: 1.3421090468060637
+zip: 1.2080069381430203
+first_freq: 1.0044404140181316
+Cluster 2: Index(['zip', 'age', 'state_encoded', 'gender_f', 'gender_m'], dtype='object')
+Mean Values:
+zip: 1.5349617291915167
+age: 1.0688377653832764
+state_encoded: 1.0072409238635762
+gender_f: 0.9787750772185
+gender_m: 0.9787750772185
+
+Weight: 2.0
+Cluster 0: Index(['zip', 'age', 'gender_m', 'gender_f', 'state_encoded'], dtype='object')
+Mean Values:
+zip: 2.0511320102062642
+age: 1.4367663940734612
+gender_m: 1.305033436291511
+gender_f: 1.305033436291511
+state_encoded: 1.005858769911978
+Cluster 1: Index(['age', 'zip', 'gender_m', 'gender_f', 'month'], dtype='object')
+Mean Values:
+age: 1.5971096673354286
+zip: 1.535991908699205
+gender_m: 1.3050334362914302
+gender_f: 1.3050334362914302
+month: 0.8920836309505098
+Cluster 2: Index(['gender_f', 'gender_m', 'age', 'zip', 'first_freq'], dtype='object')
+Mean Values:
+gender_f: 3.065055567745845
+gender_m: 3.065055567745845
+age: 1.7894787290747656
+zip: 1.6106759175240193
+first_freq: 1.0044404140181316
+
+Weight: 2.5
+Cluster 0: Index(['age', 'zip', 'gender_m', 'gender_f', 'month'], dtype='object')
+Mean Values:
+age: 1.9915610937672792
+zip: 1.930008952104918
+gender_m: 1.6312917953642534
+gender_f: 1.6312917953642534
+month: 0.8922165302769304
+Cluster 1: Index(['zip', 'age', 'gender_m', 'gender_f', 'state_encoded'], dtype='object')
+Mean Values:
+zip: 2.545376261554724
+age: 1.8038940113714168
+gender_m: 1.6312917953643957
+gender_f: 1.6312917953643957
+state_encoded: 1.0038805297107567
+Cluster 2: Index(['gender_f', 'gender_m', 'age', 'zip', 'first_freq'], dtype='object')
+Mean Values:
+gender_f: 3.8313194596826508
+gender_m: 3.8313194596826508
+age: 2.2368484113434293
+zip: 2.013344896905006
+first_freq: 1.0044404140181316
+
+Weight: 3.0
+Cluster 0: Index(['zip', 'age', 'gender_m', 'gender_f', 'state_encoded'], dtype='object')
+Mean Values:
+zip: 3.044817327561158
+age: 2.1716801837327786
+gender_m: 1.957550154436995
+gender_f: 1.957550154436995
+state_encoded: 1.0023463056822415
+Cluster 1: Index(['age', 'zip', 'gender_m', 'gender_f', 'month'], dtype='object')
+Mean Values:
+age: 2.3850012248509205
+zip: 2.321393034810027
+gender_m: 1.9575501544369613
+gender_f: 1.9575501544369613
+month: 0.8927765813316296
+Cluster 2: Index(['gender_f', 'gender_m', 'age', 'zip', 'first_freq'], dtype='object')
+Mean Values:
+gender_f: 4.597583351619423
+gender_m: 4.597583351619423
+age: 2.6842180936121274
+zip: 2.4160138762860406
+first_freq: 1.0044404140181316
+
+Weight: 3.5
+Cluster 0: Index(['zip', 'age', 'gender_m', 'gender_f', 'state_encoded'], dtype='object')
+Mean Values:
+zip: 3.5522630728363906
+age: 2.534451460805543
+gender_m: 2.2838085135099484
+gender_f: 2.2838085135099484
+state_encoded: 1.0023463056822415
+Cluster 1: Index(['age', 'zip', 'gender_m', 'gender_f', 'month'], dtype='object')
+Mean Values:
+age: 2.781846778687854
+zip: 2.708310776636691
+gender_m: 2.2838085135099466
+gender_f: 2.2838085135099466
+month: 0.8927033974209513
+Cluster 2: Index(['gender_f', 'gender_m', 'age', 'zip', 'first_freq'], dtype='object')
+Mean Values:
+gender_f: 5.363847243555922
+gender_m: 5.363847243555922
+age: 3.131587775880837
+zip: 2.818682855667007
+first_freq: 1.0044404140181316
+
+Weight: 4.0
+Cluster 0: Index(['age', 'zip', 'gender_m', 'gender_f', 'month'], dtype='object')
+Mean Values:
+age: 3.1788747554265187
+zip: 3.095632353824706
+gender_m: 2.6100668725828773
+gender_f: 2.6100668725828773
+month: 0.8925752735325413
+Cluster 1: Index(['gender_f', 'gender_m', 'age', 'zip', 'first_freq'], dtype='object')
+Mean Values:
+gender_f: 6.13011113549169
+gender_m: 6.13011113549169
+age: 3.578957458149531
+zip: 3.2213518350480386
+first_freq: 1.0044404140181316
+Cluster 2: Index(['zip', 'age', 'gender_m', 'gender_f', 'state_encoded'], dtype='object')
+Mean Values:
+zip: 4.059022803385788
+age: 2.897044846202085
+gender_m: 2.610066872583022
+gender_f: 2.610066872583022
+state_encoded: 1.0023445509164137
+
+Weight: 4.5
+Cluster 0: Index(['age', 'zip', 'gender_m', 'gender_f', 'month'], dtype='object')
+Mean Values:
+age: 3.5597141119518976
+zip: 3.481653113596429
+gender_m: 2.936325231655731
+gender_f: 2.936325231655731
+month: 0.8926429530731976
+Cluster 1: Index(['gender_f', 'gender_m', 'age', 'zip', 'first_freq'], dtype='object')
+Mean Values:
+gender_f: 6.896375027429465
+gender_m: 6.896375027429465
+age: 4.026327140418167
+zip: 3.6240208144290462
+first_freq: 1.0044404140181316
+Cluster 2: Index(['zip', 'age', 'gender_m', 'gender_f', 'state_encoded'], dtype='object')
+Mean Values:
+zip: 4.568375895865877
+age: 3.27977060441862
+gender_m: 2.9363252316560446
+gender_f: 2.9363252316560446
+state_encoded: 1.000830030639015
+
+Weight: 5.0
+Cluster 0: Index(['zip', 'age', 'gender_m', 'gender_f', 'state_encoded'], dtype='object')
+Mean Values:
+zip: 5.076823262696048
+age: 3.6447110145486072
+gender_m: 3.2625835907287875
+gender_f: 3.2625835907287875
+state_encoded: 1.0008315076780163
+Cluster 1: Index(['gender_f', 'gender_m', 'age', 'zip', 'first_freq'], dtype='object')
+Mean Values:
+gender_f: 7.6626389193653015
+gender_m: 7.6626389193653015
+age: 4.4736968226868585
+zip: 4.026689793810012
+first_freq: 1.0044404140181316
+Cluster 2: Index(['age', 'zip', 'gender_m', 'gender_f', 'month'], dtype='object')
+Mean Values:
+age: 3.954779020908751
+zip: 3.8680058587822335
+gender_m: 3.2625835907285095
+gender_f: 3.2625835907285095
+month: 0.8926970396997084
+
+Weight: 6.0
+Cluster 0: Index(['zip', 'age', 'gender_m', 'gender_f', 'state_encoded'], dtype='object')
+Mean Values:
+zip: 6.104457945377503
+age: 4.380471309275436
+gender_m: 3.9151003088739915
+gender_f: 3.9151003088739915
+state_encoded: 1.0008492746899909
+Cluster 1: Index(['gender_f', 'gender_m', 'age', 'zip', 'first_freq'], dtype='object')
+Mean Values:
+gender_f: 9.195166703238845
+gender_m: 9.195166703238845
+age: 5.368436187224255
+zip: 4.832027752572081
+first_freq: 1.0044404140181316
+Cluster 2: Index(['age', 'zip', 'gender_m', 'gender_f', 'month'], dtype='object')
+Mean Values:
+age: 4.739699280533266
+zip: 4.634455162263089
+gender_m: 3.9151003088739222
+gender_f: 3.9151003088739222
+month: 0.8923924379164444
+
+Weight: 7.0
+Cluster 0: Index(['age', 'zip', 'gender_m', 'gender_f', 'month'], dtype='object')
+Mean Values:
+age: 5.529649160622272
+zip: 5.406864355973492
+gender_m: 4.567617027019893
+gender_f: 4.567617027019893
+month: 0.8923924379164444
+Cluster 1: Index(['gender_f', 'gender_m', 'age', 'zip', 'first_freq'], dtype='object')
+Mean Values:
+gender_f: 10.727694487111844
+gender_m: 10.727694487111844
+age: 6.263175551761674
+zip: 5.637365711334014
+first_freq: 1.0044404140181316
+Cluster 2: Index(['zip', 'age', 'gender_m', 'gender_f', 'state_encoded'], dtype='object')
+Mean Values:
+zip: 7.121867602940329
+age: 5.110549860821359
+gender_m: 4.567617027019897
+gender_f: 4.567617027019897
+state_encoded: 1.0008492746899909
+
+Weight: 8.0
+Cluster 0: Index(['age', 'zip', 'gender_m', 'gender_f', 'month'], dtype='object')
+Mean Values:
+age: 6.360963978123308
+zip: 6.2365692456623965
+gender_m: 5.220133745165784
+gender_f: 5.220133745165784
+month: 0.8928534468949371
+Cluster 1: Index(['gender_f', 'gender_m', 'age', 'zip', 'first_freq'], dtype='object')
+Mean Values:
+gender_f: 12.26022227098338
+gender_m: 12.26022227098338
+age: 7.157914916299062
+zip: 6.442703670096077
+first_freq: 1.0044404140181316
+Cluster 2: Index(['zip', 'age', 'gender_m', 'gender_f', 'state_encoded'], dtype='object')
+Mean Values:
+zip: 8.041071835387378
+age: 5.7962783482474665
+gender_m: 5.220133745166045
+gender_f: 5.220133745166045
+state_encoded: 1.0063853104029334
+
+Weight: 9.0
+Cluster 0: Index(['zip', 'age', 'gender_m', 'gender_f', 'state_encoded'], dtype='object')
+Mean Values:
+zip: 9.047701578530406
+age: 6.521733769402256
+gender_m: 5.872650463312092
+gender_f: 5.872650463312092
+state_encoded: 1.0063877817517066
+Cluster 1: Index(['gender_f', 'gender_m', 'age', 'zip', 'first_freq'], dtype='object')
+Mean Values:
+gender_f: 13.79275005485893
+gender_m: 13.79275005485893
+age: 8.052654280836334
+zip: 7.2480416288580924
+first_freq: 1.0044404140181316
+Cluster 2: Index(['age', 'zip', 'gender_m', 'gender_f', 'month'], dtype='object')
+Mean Values:
+age: 7.155245289566742
+zip: 7.0152284773161036
+gender_m: 5.872650463311489
+gender_f: 5.872650463311489
+month: 0.8928333624996855
+
+Weight: 10.0
+Cluster 0: Index(['zip', 'age', 'gender_m', 'gender_f', 'state_encoded'], dtype='object')
+Mean Values:
+zip: 10.05300175392274
+age: 7.246370854891415
+gender_m: 6.525167181457544
+gender_f: 6.525167181457544
+state_encoded: 1.0063877817517066
+Cluster 1: Index(['gender_f', 'gender_m', 'age', 'zip', 'first_freq'], dtype='object')
+Mean Values:
+gender_f: 15.325277838730603
+gender_m: 15.325277838730603
+age: 8.947393645373717
+zip: 8.053379587620023
+first_freq: 1.0044404140181316
+Cluster 2: Index(['age', 'zip', 'gender_m', 'gender_f', 'month'], dtype='object')
+Mean Values:
+age: 7.950272543963241
+zip: 7.794698308129013
+gender_m: 6.5251671814570384
+gender_f: 6.5251671814570384
+month: 0.8928333624996855
+

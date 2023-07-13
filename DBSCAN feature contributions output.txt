@@ -1,0 +1,1732 @@
+Feature contributions DBSCAN
+
+Feature Contributors for Weight: 0.0
+Cluster -1:
+  Top Features: Index(['category_home', 'merchant_freq', 'merch_long', 'city_pop', 'amt'], dtype='object')
+  Mean Values:
+    category_home: 0.9288390745586002
+    merchant_freq: 1.0248702180155773
+    merch_long: 1.0642527199894078
+    city_pop: 2.801046766411154
+    amt: 5.572488752303646
+
+Feature Contributors for Weight: 0.0
+Cluster 0:
+  Top Features: Index(['amt', 'category_shopping_net', 'hour', 'merchant_freq',
+       'category_travel'],
+      dtype='object')
+  Mean Values:
+    amt: 0.498582550695003
+    category_shopping_net: 0.5502379986268516
+    hour: 0.9766776129543866
+    merchant_freq: 1.4911630362858543
+    category_travel: 8.357643353790026
+
+Feature Contributors for Weight: 0.0
+Cluster 1:
+  Top Features: Index(['category_grocery_net', 'category_kids_pets', 'category_food_dining',
+       'category_gas_transport', 'category_home'],
+      dtype='object')
+  Mean Values:
+    category_grocery_net: 0.12232522763270032
+    category_kids_pets: 0.14181239325942996
+    category_food_dining: 0.15235583984648882
+    category_gas_transport: 0.16612752885248427
+    category_home: 0.18564044582366382
+
+Feature Contributors for Weight: 0.0
+Cluster 2:
+  Top Features: Index(['category_misc_net', 'category_shopping_net', 'hour', 'merchant_freq',
+       'category_home'],
+      dtype='object')
+  Mean Values:
+    category_misc_net: 0.4953527267913754
+    category_shopping_net: 0.5502379986268511
+    hour: 0.6839782110423386
+    merchant_freq: 0.886927487850722
+    category_home: 5.386757156087698
+
+Feature Contributors for Weight: 0.0
+Cluster 3:
+  Top Features: Index(['category_shopping_pos', 'category_misc_net', 'category_shopping_net',
+       'hour', 'category_food_dining'],
+      dtype='object')
+  Mean Values:
+    category_shopping_pos: 0.4298300939765627
+    category_misc_net: 0.49535272679137454
+    category_shopping_net: 0.5502379986268475
+    hour: 0.717519476837235
+    category_food_dining: 6.563581684873362
+
+Feature Contributors for Weight: 0.0
+Cluster 4:
+  Top Features: Index(['merchant_freq', 'category_shopping_net', 'amt', 'hour',
+       'category_kids_pets'],
+      dtype='object')
+  Mean Values:
+    merchant_freq: 0.5350068522333691
+    category_shopping_net: 0.5502379986268485
+    amt: 0.7630540207984807
+    hour: 1.2612670663520646
+    category_kids_pets: 7.051569873521697
+
+Feature Contributors for Weight: 0.0
+Cluster 5:
+  Top Features: Index(['city_freq', 'hour', 'street_freq', 'merchant_freq',
+       'category_grocery_net'],
+      dtype='object')
+  Mean Values:
+    city_freq: 0.8720278944792283
+    hour: 1.1149972752805681
+    street_freq: 1.1232173861566201
+    merchant_freq: 1.93356232213896
+    category_grocery_net: 8.174928584663078
+
+Feature Contributors for Weight: 0.0
+Cluster 6:
+  Top Features: Index(['city_freq', 'merchant_freq', 'street_freq', 'hour',
+       'category_gas_transport'],
+      dtype='object')
+  Mean Values:
+    city_freq: 1.0231853618886166
+    merchant_freq: 1.1938898429720741
+    street_freq: 1.203726125289978
+    hour: 1.4031411496380168
+    category_gas_transport: 6.019471949697173
+
+Feature Contributors for Weight: 0.5
+Cluster -1:
+  Top Features: Index(['category_home', 'city_pop', 'merch_lat', 'merch_long', 'amt'], dtype='object')
+  Mean Values:
+    category_home: 0.9874958914208252
+    city_pop: 1.5383487378167986
+    merch_lat: 1.9517663836284675
+    merch_long: 2.8139746748665386
+    amt: 3.1661660618036467
+
+Feature Contributors for Weight: 0.5
+Cluster 0:
+  Top Features: Index(['amt', 'category_shopping_net', 'hour', 'merchant_freq',
+       'category_travel'],
+      dtype='object')
+  Mean Values:
+    amt: 0.498582550695003
+    category_shopping_net: 0.5502379986268516
+    hour: 0.9766776129543866
+    merchant_freq: 1.4911630362858543
+    category_travel: 8.357643353790026
+
+Feature Contributors for Weight: 0.5
+Cluster 1:
+  Top Features: Index(['category_grocery_net', 'category_kids_pets', 'category_food_dining',
+       'category_gas_transport', 'category_home'],
+      dtype='object')
+  Mean Values:
+    category_grocery_net: 0.12232522763270032
+    category_kids_pets: 0.14181239325942996
+    category_food_dining: 0.15235583984648873
+    category_gas_transport: 0.16612752885248427
+    category_home: 0.18564044582366387
+
+Feature Contributors for Weight: 0.5
+Cluster 2:
+  Top Features: Index(['category_misc_net', 'category_shopping_net', 'hour', 'merchant_freq',
+       'category_home'],
+      dtype='object')
+  Mean Values:
+    category_misc_net: 0.4953527267913753
+    category_shopping_net: 0.5502379986268511
+    hour: 0.6859333588383842
+    merchant_freq: 0.8872568590348542
+    category_home: 5.386757156087698
+
+Feature Contributors for Weight: 0.5
+Cluster 3:
+  Top Features: Index(['category_shopping_pos', 'category_misc_net', 'category_shopping_net',
+       'hour', 'category_food_dining'],
+      dtype='object')
+  Mean Values:
+    category_shopping_pos: 0.4298300939765627
+    category_misc_net: 0.49535272679137454
+    category_shopping_net: 0.5502379986268475
+    hour: 0.717519476837235
+    category_food_dining: 6.563581684873362
+
+Feature Contributors for Weight: 0.5
+Cluster 4:
+  Top Features: Index(['merchant_freq', 'category_shopping_net', 'amt', 'hour',
+       'category_kids_pets'],
+      dtype='object')
+  Mean Values:
+    merchant_freq: 0.5350068522333691
+    category_shopping_net: 0.5502379986268485
+    amt: 0.7630540207984807
+    hour: 1.2612670663520646
+    category_kids_pets: 7.051569873521697
+
+Feature Contributors for Weight: 0.5
+Cluster 5:
+  Top Features: Index(['city_freq', 'hour', 'street_freq', 'merchant_freq',
+       'category_grocery_net'],
+      dtype='object')
+  Mean Values:
+    city_freq: 0.8720278944792283
+    hour: 1.1149972752805681
+    street_freq: 1.1232173861566201
+    merchant_freq: 1.93356232213896
+    category_grocery_net: 8.174928584663078
+
+Feature Contributors for Weight: 0.5
+Cluster 6:
+  Top Features: Index(['city_freq', 'merchant_freq', 'street_freq', 'hour',
+       'category_gas_transport'],
+      dtype='object')
+  Mean Values:
+    city_freq: 1.0231853618886166
+    merchant_freq: 1.1938898429720741
+    street_freq: 1.203726125289978
+    hour: 1.4031411496380168
+    category_gas_transport: 6.019471949697173
+
+Feature Contributors for Weight: 1.0
+Cluster -1:
+  Top Features: Index(['zip', 'city_pop', 'merch_lat', 'merch_long', 'amt'], dtype='object')
+  Mean Values:
+    zip: 1.0586822587510243
+    city_pop: 1.1192719431368139
+    merch_lat: 1.6221467884367224
+    merch_long: 2.6732568792542133
+    amt: 3.646951672772908
+
+Feature Contributors for Weight: 1.0
+Cluster 0:
+  Top Features: Index(['age', 'category_shopping_net', 'hour', 'merchant_freq',
+       'category_travel'],
+      dtype='object')
+  Mean Values:
+    age: 0.5247750604128496
+    category_shopping_net: 0.5502379986268516
+    hour: 0.9766776129543866
+    merchant_freq: 1.4911630362858543
+    category_travel: 8.357643353790026
+
+Feature Contributors for Weight: 1.0
+Cluster 1:
+  Top Features: Index(['category_grocery_net', 'category_kids_pets', 'category_food_dining',
+       'category_gas_transport', 'category_home'],
+      dtype='object')
+  Mean Values:
+    category_grocery_net: 0.12232522763270032
+    category_kids_pets: 0.14181239325942993
+    category_food_dining: 0.1523558398464886
+    category_gas_transport: 0.16612752885248425
+    category_home: 0.18564044582366396
+
+Feature Contributors for Weight: 1.0
+Cluster 2:
+  Top Features: Index(['category_misc_net', 'category_shopping_net', 'hour', 'merchant_freq',
+       'category_home'],
+      dtype='object')
+  Mean Values:
+    category_misc_net: 0.4953527267913753
+    category_shopping_net: 0.5502379986268511
+    hour: 0.6859333588383842
+    merchant_freq: 0.8872568590348542
+    category_home: 5.386757156087698
+
+Feature Contributors for Weight: 1.0
+Cluster 3:
+  Top Features: Index(['category_shopping_pos', 'category_misc_net', 'category_shopping_net',
+       'hour', 'category_food_dining'],
+      dtype='object')
+  Mean Values:
+    category_shopping_pos: 0.4298300939765627
+    category_misc_net: 0.49535272679137454
+    category_shopping_net: 0.5502379986268475
+    hour: 0.717519476837235
+    category_food_dining: 6.563581684873362
+
+Feature Contributors for Weight: 1.0
+Cluster 4:
+  Top Features: Index(['gender_m', 'gender_f', 'amt', 'hour', 'category_kids_pets'], dtype='object')
+  Mean Values:
+    gender_m: 0.6334610974885908
+    gender_f: 0.6334610974885908
+    amt: 0.7630540207984807
+    hour: 1.2612670663520646
+    category_kids_pets: 7.051569873521697
+
+Feature Contributors for Weight: 1.0
+Cluster 5:
+  Top Features: Index(['city_freq', 'hour', 'street_freq', 'merchant_freq',
+       'category_grocery_net'],
+      dtype='object')
+  Mean Values:
+    city_freq: 0.8720278944792283
+    hour: 1.1149972752805681
+    street_freq: 1.1232173861566201
+    merchant_freq: 1.93356232213896
+    category_grocery_net: 8.174928584663078
+
+Feature Contributors for Weight: 1.0
+Cluster 6:
+  Top Features: Index(['city_freq', 'merchant_freq', 'street_freq', 'hour',
+       'category_gas_transport'],
+      dtype='object')
+  Mean Values:
+    city_freq: 1.0231853618886166
+    merchant_freq: 1.1938898429720741
+    street_freq: 1.203726125289978
+    hour: 1.4031411496380168
+    category_gas_transport: 6.019471949697173
+
+Feature Contributors for Weight: 1.5
+Cluster -1:
+  Top Features: Index(['gender_m', 'merch_lat', 'zip', 'merch_long', 'amt'], dtype='object')
+  Mean Values:
+    gender_m: 1.2474966795552769
+    merch_lat: 1.2992704992994286
+    zip: 1.68886705821481
+    merch_long: 2.5977734170752838
+    amt: 3.1641145184820973
+
+Feature Contributors for Weight: 1.5
+Cluster 0:
+  Top Features: Index(['category_shopping_net', 'age', 'hour', 'merchant_freq',
+       'category_travel'],
+      dtype='object')
+  Mean Values:
+    category_shopping_net: 0.5502379986268517
+    age: 0.8006892564322412
+    hour: 0.9736037909441383
+    merchant_freq: 1.4961364187009425
+    category_travel: 8.357643353790024
+
+Feature Contributors for Weight: 1.5
+Cluster 1:
+  Top Features: Index(['category_grocery_net', 'category_kids_pets', 'category_food_dining',
+       'category_gas_transport', 'category_home'],
+      dtype='object')
+  Mean Values:
+    category_grocery_net: 0.12232522763270032
+    category_kids_pets: 0.14181239325942993
+    category_food_dining: 0.15235583984648837
+    category_gas_transport: 0.16612752885248425
+    category_home: 0.1856404458236641
+
+Feature Contributors for Weight: 1.5
+Cluster 2:
+  Top Features: Index(['category_misc_net', 'category_shopping_net', 'hour', 'merchant_freq',
+       'category_home'],
+      dtype='object')
+  Mean Values:
+    category_misc_net: 0.49535272679137526
+    category_shopping_net: 0.550237998626851
+    hour: 0.6852250424650187
+    merchant_freq: 0.8872435499085926
+    category_home: 5.386757156087698
+
+Feature Contributors for Weight: 1.5
+Cluster 3:
+  Top Features: Index(['category_shopping_pos', 'category_misc_net', 'category_shopping_net',
+       'hour', 'category_food_dining'],
+      dtype='object')
+  Mean Values:
+    category_shopping_pos: 0.4298300939765627
+    category_misc_net: 0.49535272679137454
+    category_shopping_net: 0.5502379986268475
+    hour: 0.7165653840447946
+    category_food_dining: 6.563581684873361
+
+Feature Contributors for Weight: 1.5
+Cluster 4:
+  Top Features: Index(['amt', 'gender_m', 'gender_f', 'hour', 'category_kids_pets'], dtype='object')
+  Mean Values:
+    amt: 0.7629736328991246
+    gender_m: 0.950108312614842
+    gender_f: 0.9501083126148422
+    hour: 1.2613708852166932
+    category_kids_pets: 7.051569873521697
+
+Feature Contributors for Weight: 1.5
+Cluster 5:
+  Top Features: Index(['city_freq', 'hour', 'street_freq', 'merchant_freq',
+       'category_grocery_net'],
+      dtype='object')
+  Mean Values:
+    city_freq: 0.8720278944792283
+    hour: 1.1149972752805681
+    street_freq: 1.1232173861566201
+    merchant_freq: 1.93356232213896
+    category_grocery_net: 8.174928584663078
+
+Feature Contributors for Weight: 1.5
+Cluster 6:
+  Top Features: Index(['city_freq', 'merchant_freq', 'street_freq', 'hour',
+       'category_gas_transport'],
+      dtype='object')
+  Mean Values:
+    city_freq: 1.0231853618886166
+    merchant_freq: 1.1938898429720741
+    street_freq: 1.203726125289978
+    hour: 1.4031411496380168
+    category_gas_transport: 6.019471949697173
+
+Feature Contributors for Weight: 2.0
+Cluster -1:
+  Top Features: Index(['gender_f', 'gender_m', 'zip', 'merch_long', 'amt'], dtype='object')
+  Mean Values:
+    gender_f: 1.8632810916357996
+    gender_m: 1.8632810916358
+    zip: 2.0501450646909447
+    merch_long: 2.2078899894348454
+    amt: 2.625207966110695
+
+Feature Contributors for Weight: 2.0
+Cluster 0:
+  Top Features: Index(['merchant_freq', 'age', 'gender_f', 'gender_m', 'category_travel'], dtype='object')
+  Mean Values:
+    merchant_freq: 1.010802179697892
+    age: 1.0382125894089111
+    gender_f: 3.065055567746133
+    gender_m: 3.065055567746133
+    category_travel: 8.35764335378997
+
+Feature Contributors for Weight: 2.0
+Cluster 1:
+  Top Features: Index(['category_grocery_pos', 'category_home', 'age', 'gender_m', 'gender_f'], dtype='object')
+  Mean Values:
+    category_grocery_pos: 0.18191687352525332
+    category_home: 0.18564044582370962
+    age: 0.24130735865590403
+    gender_m: 1.3050334362911435
+    gender_f: 1.3050334362911435
+
+Feature Contributors for Weight: 2.0
+Cluster 2:
+  Top Features: Index(['hour', 'merchant_freq', 'gender_m', 'gender_f', 'category_home'], dtype='object')
+  Mean Values:
+    hour: 0.6778962921978824
+    merchant_freq: 0.8839157144003784
+    gender_m: 1.305033436291463
+    gender_f: 1.305033436291463
+    category_home: 5.386757156087698
+
+Feature Contributors for Weight: 2.0
+Cluster 3:
+  Top Features: Index(['category_shopping_net', 'hour', 'gender_m', 'gender_f',
+       'category_food_dining'],
+      dtype='object')
+  Mean Values:
+    category_shopping_net: 0.5502379986268505
+    hour: 0.7139014910415281
+    gender_m: 1.305033436291462
+    gender_f: 1.305033436291462
+    category_food_dining: 6.5635816848733315
+
+Feature Contributors for Weight: 2.0
+Cluster 4:
+  Top Features: Index(['category_grocery_pos', 'first_freq', 'age', 'gender_f', 'gender_m'], dtype='object')
+  Mean Values:
+    category_grocery_pos: 0.27616077431565333
+    first_freq: 0.2761963818189332
+    age: 0.38490611182677736
+    gender_f: 3.0650555677458664
+    gender_m: 3.0650555677458664
+
+Feature Contributors for Weight: 2.0
+Cluster 5:
+  Top Features: Index(['amt', 'hour', 'gender_m', 'gender_f', 'category_kids_pets'], dtype='object')
+  Mean Values:
+    amt: 0.7629661730564179
+    hour: 1.2609194355755602
+    gender_m: 1.3050334362914628
+    gender_f: 1.3050334362914628
+    category_kids_pets: 7.051569873521697
+
+Feature Contributors for Weight: 2.0
+Cluster 6:
+  Top Features: Index(['street_freq', 'gender_m', 'gender_f', 'merchant_freq',
+       'category_grocery_net'],
+      dtype='object')
+  Mean Values:
+    street_freq: 1.139484671059928
+    gender_m: 1.3050334362914588
+    gender_f: 1.3050334362914588
+    merchant_freq: 1.9363656360741002
+    category_grocery_net: 8.174928584663057
+
+Feature Contributors for Weight: 2.0
+Cluster 7:
+  Top Features: Index(['street_freq', 'gender_m', 'gender_f', 'hour',
+       'category_gas_transport'],
+      dtype='object')
+  Mean Values:
+    street_freq: 1.1995230151756655
+    gender_m: 1.3050334362914613
+    gender_f: 1.3050334362914613
+    hour: 1.4066375147953805
+    category_gas_transport: 6.019471949697182
+
+Feature Contributors for Weight: 2.0
+Cluster 8:
+  Top Features: Index(['street_freq', 'hour', 'gender_m', 'gender_f',
+       'category_gas_transport'],
+      dtype='object')
+  Mean Values:
+    street_freq: 1.208149485715981
+    hour: 1.399461568839209
+    gender_m: 3.065055567746146
+    gender_f: 3.065055567746146
+    category_gas_transport: 6.0194719496971825
+
+Feature Contributors for Weight: 2.0
+Cluster 9:
+  Top Features: Index(['gender_m', 'merch_lat', 'zip', 'city_freq', 'city_pop'], dtype='object')
+  Mean Values:
+    gender_m: 1.3050334362914535
+    merch_lat: 1.6822789666029636
+    zip: 2.0957851709937585
+    city_freq: 2.152735256415081
+    city_pop: 8.989358921449446
+
+Feature Contributors for Weight: 2.0
+Cluster 10:
+  Top Features: Index(['hour', 'merchant_freq', 'gender_m', 'gender_f', 'category_home'], dtype='object')
+  Mean Values:
+    hour: 0.7001065857938633
+    merchant_freq: 0.8922952056794574
+    gender_m: 3.065055567746143
+    gender_f: 3.065055567746143
+    category_home: 5.386757156087699
+
+Feature Contributors for Weight: 2.0
+Cluster 11:
+  Top Features: Index(['hour', 'merchant_freq', 'gender_m', 'gender_f',
+       'category_grocery_net'],
+      dtype='object')
+  Mean Values:
+    hour: 1.207902459947238
+    merchant_freq: 1.9282391754531403
+    gender_m: 3.065055567746134
+    gender_f: 3.065055567746134
+    category_grocery_net: 8.174928584663046
+
+Feature Contributors for Weight: 2.0
+Cluster 12:
+  Top Features: Index(['age', 'gender_m', 'gender_f', 'merchant_freq', 'category_travel'], dtype='object')
+  Mean Values:
+    age: 1.107020107289056
+    gender_m: 1.3050334362914566
+    gender_f: 1.3050334362914566
+    merchant_freq: 1.9260160818057626
+    category_travel: 8.357643353789976
+
+Feature Contributors for Weight: 2.0
+Cluster 13:
+  Top Features: Index(['age', 'hour', 'gender_m', 'gender_f', 'category_food_dining'], dtype='object')
+  Mean Values:
+    age: 0.706510547784888
+    hour: 0.7228508744159851
+    gender_m: 3.065055567746133
+    gender_f: 3.065055567746133
+    category_food_dining: 6.563581684873375
+
+Feature Contributors for Weight: 2.5
+Cluster -1:
+  Top Features: Index(['merch_long', 'amt', 'zip', 'gender_m', 'gender_f'], dtype='object')
+  Mean Values:
+    merch_long: 1.620709472850195
+    amt: 1.7557353421024602
+    zip: 1.8165120823968008
+    gender_m: 2.219401384422906
+    gender_f: 2.219401384422906
+
+Feature Contributors for Weight: 2.5
+Cluster 0:
+  Top Features: Index(['category_grocery_pos', 'category_home', 'age', 'gender_m', 'gender_f'], dtype='object')
+  Mean Values:
+    category_grocery_pos: 0.18220914838075977
+    category_home: 0.18564044582370956
+    age: 0.3021971620083828
+    gender_m: 1.6312917953641684
+    gender_f: 1.6312917953641684
+
+Feature Contributors for Weight: 2.5
+Cluster 1:
+  Top Features: Index(['category_shopping_net', 'hour', 'gender_m', 'gender_f',
+       'category_food_dining'],
+      dtype='object')
+  Mean Values:
+    category_shopping_net: 0.5502379986268505
+    hour: 0.7125042795704581
+    gender_m: 1.6312917953643071
+    gender_f: 1.6312917953643071
+    category_food_dining: 6.5635816848733315
+
+Feature Contributors for Weight: 2.5
+Cluster 2:
+  Top Features: Index(['category_grocery_pos', 'first_freq', 'age', 'gender_m', 'gender_f'], dtype='object')
+  Mean Values:
+    category_grocery_pos: 0.2760364098857168
+    first_freq: 0.2764300370704534
+    age: 0.48204534699969176
+    gender_m: 3.831319459682914
+    gender_f: 3.831319459682914
+
+Feature Contributors for Weight: 2.5
+Cluster 3:
+  Top Features: Index(['hour', 'merchant_freq', 'gender_m', 'gender_f', 'category_home'], dtype='object')
+  Mean Values:
+    hour: 0.6778962921978824
+    merchant_freq: 0.8839157144003784
+    gender_m: 1.6312917953643031
+    gender_f: 1.6312917953643031
+    category_home: 5.386757156087698
+
+Feature Contributors for Weight: 2.5
+Cluster 4:
+  Top Features: Index(['amt', 'hour', 'gender_m', 'gender_f', 'category_kids_pets'], dtype='object')
+  Mean Values:
+    amt: 0.7627167438210851
+    hour: 1.260742534707043
+    gender_m: 1.631291795364304
+    gender_f: 1.631291795364304
+    category_kids_pets: 7.051569873521697
+
+Feature Contributors for Weight: 2.5
+Cluster 5:
+  Top Features: Index(['age', 'hour', 'gender_m', 'gender_f', 'category_gas_transport'], dtype='object')
+  Mean Values:
+    age: 1.2836477212037165
+    hour: 1.4066375147953805
+    gender_m: 1.6312917953643093
+    gender_f: 1.6312917953643093
+    category_gas_transport: 6.019471949697182
+
+Feature Contributors for Weight: 2.5
+Cluster 6:
+  Top Features: Index(['age', 'hour', 'gender_m', 'gender_f', 'category_gas_transport'], dtype='object')
+  Mean Values:
+    age: 1.2248096433386506
+    hour: 1.399461568839209
+    gender_m: 3.8313194596826508
+    gender_f: 3.8313194596826508
+    category_gas_transport: 6.0194719496971825
+
+Feature Contributors for Weight: 2.5
+Cluster 7:
+  Top Features: Index(['gender_m', 'merch_lat', 'city_freq', 'zip', 'city_pop'], dtype='object')
+  Mean Values:
+    gender_m: 1.6312917953643191
+    merch_lat: 1.6822789666029636
+    city_freq: 2.152735256415081
+    zip: 2.619731463742201
+    city_pop: 8.989358921449446
+
+Feature Contributors for Weight: 2.5
+Cluster 8:
+  Top Features: Index(['hour', 'merchant_freq', 'gender_f', 'gender_m', 'category_home'], dtype='object')
+  Mean Values:
+    hour: 0.702545195110544
+    merchant_freq: 0.8922826852627843
+    gender_f: 3.8313194596826534
+    gender_m: 3.8313194596826534
+    category_home: 5.386757156087699
+
+Feature Contributors for Weight: 2.5
+Cluster 9:
+  Top Features: Index(['hour', 'merchant_freq', 'gender_m', 'gender_f',
+       'category_grocery_net'],
+      dtype='object')
+  Mean Values:
+    hour: 1.2185437074273848
+    merchant_freq: 1.9285859964621779
+    gender_m: 3.8313194596826743
+    gender_f: 3.8313194596826743
+    category_grocery_net: 8.174928584663046
+
+Feature Contributors for Weight: 2.5
+Cluster 10:
+  Top Features: Index(['street_freq', 'gender_m', 'gender_f', 'merchant_freq',
+       'category_grocery_net'],
+      dtype='object')
+  Mean Values:
+    street_freq: 1.1459689903559969
+    gender_m: 1.6312917953643173
+    gender_f: 1.6312917953643173
+    merchant_freq: 1.9364985097542773
+    category_grocery_net: 8.174928584663055
+
+Feature Contributors for Weight: 2.5
+Cluster 11:
+  Top Features: Index(['age', 'gender_m', 'gender_f', 'merchant_freq', 'category_travel'], dtype='object')
+  Mean Values:
+    age: 1.3504190486947298
+    gender_m: 1.6312917953643191
+    gender_f: 1.6312917953643191
+    merchant_freq: 1.921047074560168
+    category_travel: 8.357643353789975
+
+Feature Contributors for Weight: 2.5
+Cluster 12:
+  Top Features: Index(['hour', 'age', 'gender_m', 'gender_f', 'category_food_dining'], dtype='object')
+  Mean Values:
+    hour: 0.7159217787202209
+    age: 0.7491983668952482
+    gender_m: 3.8313194596826743
+    gender_f: 3.8313194596826743
+    category_food_dining: 6.563581684873375
+
+Feature Contributors for Weight: 2.5
+Cluster 13:
+  Top Features: Index(['merchant_freq', 'age', 'gender_m', 'gender_f', 'category_travel'], dtype='object')
+  Mean Values:
+    merchant_freq: 1.044357114830741
+    age: 1.1537644692633005
+    gender_m: 3.8313194596826743
+    gender_f: 3.8313194596826743
+    category_travel: 8.35764335378997
+
+Feature Contributors for Weight: 3.0
+Cluster -1:
+  Top Features: Index(['zip', 'age', 'gender_m', 'gender_f', 'category_travel'], dtype='object')
+  Mean Values:
+    zip: 1.7135580616093486
+    age: 1.8747068411983623
+    gender_m: 2.2358073089959527
+    gender_f: 2.2358073089959527
+    category_travel: 3.246333550597779
+
+Feature Contributors for Weight: 3.0
+Cluster 0:
+  Top Features: Index(['category_grocery_pos', 'category_home', 'age', 'gender_m', 'gender_f'], dtype='object')
+  Mean Values:
+    category_grocery_pos: 0.18245296242164624
+    category_home: 0.18564044582370956
+    age: 0.36460986660531153
+    gender_m: 1.9575501544373037
+    gender_f: 1.9575501544373037
+
+Feature Contributors for Weight: 3.0
+Cluster 1:
+  Top Features: Index(['category_shopping_net', 'hour', 'gender_m', 'gender_f',
+       'category_food_dining'],
+      dtype='object')
+  Mean Values:
+    category_shopping_net: 0.5502379986268506
+    hour: 0.7091980476173688
+    gender_m: 1.9575501544371747
+    gender_f: 1.9575501544371752
+    category_food_dining: 6.563581684873332
+
+Feature Contributors for Weight: 3.0
+Cluster 2:
+  Top Features: Index(['category_grocery_pos', 'first_freq', 'age', 'gender_m', 'gender_f'], dtype='object')
+  Mean Values:
+    category_grocery_pos: 0.2759254355451583
+    first_freq: 0.27634924212429685
+    age: 0.5771476925978769
+    gender_m: 4.5975833516192335
+    gender_f: 4.5975833516192335
+
+Feature Contributors for Weight: 3.0
+Cluster 3:
+  Top Features: Index(['hour', 'merchant_freq', 'gender_m', 'gender_f', 'category_home'], dtype='object')
+  Mean Values:
+    hour: 0.6747882179092497
+    merchant_freq: 0.8844745113828438
+    gender_m: 1.957550154437174
+    gender_f: 1.9575501544371743
+    category_home: 5.386757156087698
+
+Feature Contributors for Weight: 3.0
+Cluster 4:
+  Top Features: Index(['amt', 'hour', 'gender_m', 'gender_f', 'category_kids_pets'], dtype='object')
+  Mean Values:
+    amt: 0.7625974522469319
+    hour: 1.260486657074403
+    gender_m: 1.9575501544371743
+    gender_f: 1.9575501544371745
+    category_kids_pets: 7.051569873521698
+
+Feature Contributors for Weight: 3.0
+Cluster 5:
+  Top Features: Index(['hour', 'age', 'gender_m', 'gender_f', 'category_gas_transport'], dtype='object')
+  Mean Values:
+    hour: 1.4066375147953805
+    age: 1.54037726544446
+    gender_m: 1.9575501544371752
+    gender_f: 1.9575501544371756
+    category_gas_transport: 6.019471949697182
+
+Feature Contributors for Weight: 3.0
+Cluster 6:
+  Top Features: Index(['hour', 'age', 'gender_m', 'gender_f', 'category_gas_transport'], dtype='object')
+  Mean Values:
+    hour: 1.403544893899702
+    age: 1.4863229165978298
+    gender_m: 4.5975833516191935
+    gender_f: 4.5975833516191935
+    category_gas_transport: 6.0194719496971825
+
+Feature Contributors for Weight: 3.0
+Cluster 7:
+  Top Features: Index(['gender_m', 'gender_f', 'city_freq', 'zip', 'city_pop'], dtype='object')
+  Mean Values:
+    gender_m: 1.9575501544371818
+    gender_f: 1.9575501544371834
+    city_freq: 2.152735256415081
+    zip: 3.1436777564906344
+    city_pop: 8.989358921449446
+
+Feature Contributors for Weight: 3.0
+Cluster 8:
+  Top Features: Index(['hour', 'merchant_freq', 'gender_m', 'gender_f', 'category_home'], dtype='object')
+  Mean Values:
+    hour: 0.698124064127717
+    merchant_freq: 0.8926670374877607
+    gender_m: 4.597583351619193
+    gender_f: 4.597583351619193
+    category_home: 5.386757156087699
+
+Feature Contributors for Weight: 3.0
+Cluster 9:
+  Top Features: Index(['hour', 'merchant_freq', 'gender_f', 'gender_m',
+       'category_grocery_net'],
+      dtype='object')
+  Mean Values:
+    hour: 1.2233483604359818
+    merchant_freq: 1.9282215131215008
+    gender_f: 4.597583351619217
+    gender_m: 4.597583351619217
+    category_grocery_net: 8.174928584663048
+
+Feature Contributors for Weight: 3.0
+Cluster 10:
+  Top Features: Index(['street_freq', 'merchant_freq', 'gender_m', 'gender_f',
+       'category_grocery_net'],
+      dtype='object')
+  Mean Values:
+    street_freq: 1.1635847767564262
+    merchant_freq: 1.9358964061210795
+    gender_m: 1.9575501544371767
+    gender_f: 1.9575501544371774
+    category_grocery_net: 8.174928584663053
+
+Feature Contributors for Weight: 3.0
+Cluster 11:
+  Top Features: Index(['age', 'merchant_freq', 'gender_m', 'gender_f', 'category_travel'], dtype='object')
+  Mean Values:
+    age: 1.7808414921449853
+    merchant_freq: 1.9359911252277382
+    gender_m: 1.9575501544371807
+    gender_f: 1.957550154437182
+    category_travel: 8.35764335378997
+
+Feature Contributors for Weight: 3.0
+Cluster 12:
+  Top Features: Index(['age', 'merchant_freq', 'gender_m', 'gender_f', 'category_travel'], dtype='object')
+  Mean Values:
+    age: 1.140189082273493
+    merchant_freq: 1.3629984620805118
+    gender_m: 4.597583351619214
+    gender_f: 4.597583351619214
+    category_travel: 8.357643353789971
+
+Feature Contributors for Weight: 3.0
+Cluster 13:
+  Top Features: Index(['hour', 'age', 'gender_m', 'gender_f', 'category_food_dining'], dtype='object')
+  Mean Values:
+    hour: 0.7511334348911234
+    age: 0.9928066840112924
+    gender_m: 4.597583351619217
+    gender_f: 4.597583351619217
+    category_food_dining: 6.563581684873372
+
+Feature Contributors for Weight: 3.5
+Cluster -1:
+  Top Features: Index(['category_food_dining', 'age', 'gender_m', 'gender_f',
+       'category_travel'],
+      dtype='object')
+  Mean Values:
+    category_food_dining: 1.3363436447997497
+    age: 2.1617383914174373
+    gender_m: 2.355769312443201
+    gender_f: 2.355769312443201
+    category_travel: 3.370168536073522
+
+Feature Contributors for Weight: 3.5
+Cluster 0:
+  Top Features: Index(['category_grocery_pos', 'category_home', 'age', 'gender_m', 'gender_f'], dtype='object')
+  Mean Values:
+    category_grocery_pos: 0.18303905157330655
+    category_home: 0.18564044582370948
+    age: 0.4299663710040611
+    gender_m: 2.283808513510536
+    gender_f: 2.283808513510536
+
+Feature Contributors for Weight: 3.5
+Cluster 1:
+  Top Features: Index(['zip', 'hour', 'gender_f', 'gender_m', 'category_food_dining'], dtype='object')
+  Mean Values:
+    zip: 0.6435641177378246
+    hour: 0.7177171754740703
+    gender_f: 2.283808513510052
+    gender_m: 2.283808513510052
+    category_food_dining: 6.563581684873334
+
+Feature Contributors for Weight: 3.5
+Cluster 2:
+  Top Features: Index(['first_freq', 'zip', 'age', 'gender_m', 'gender_f'], dtype='object')
+  Mean Values:
+    first_freq: 0.2782007941606036
+    zip: 0.2996803578795005
+    age: 0.6638023682066937
+    gender_m: 5.363847243555918
+    gender_f: 5.363847243555918
+
+Feature Contributors for Weight: 3.5
+Cluster 3:
+  Top Features: Index(['hour', 'merchant_freq', 'gender_m', 'gender_f', 'category_home'], dtype='object')
+  Mean Values:
+    hour: 0.67457101275659
+    merchant_freq: 0.8845305564919266
+    gender_m: 2.2838085135100523
+    gender_f: 2.2838085135100523
+    category_home: 5.386757156087698
+
+Feature Contributors for Weight: 3.5
+Cluster 4:
+  Top Features: Index(['age', 'hour', 'gender_m', 'gender_f', 'category_kids_pets'], dtype='object')
+  Mean Values:
+    age: 0.8913758149869628
+    hour: 1.260649716350105
+    gender_m: 2.283808513510052
+    gender_f: 2.283808513510052
+    category_kids_pets: 7.051569873521699
+
+Feature Contributors for Weight: 3.5
+Cluster 5:
+  Top Features: Index(['hour', 'age', 'gender_f', 'gender_m', 'category_gas_transport'], dtype='object')
+  Mean Values:
+    hour: 1.4067456616610576
+    age: 1.8073112618599718
+    gender_f: 2.283808513510052
+    gender_m: 2.283808513510052
+    category_gas_transport: 6.019471949697182
+
+Feature Contributors for Weight: 3.5
+Cluster 6:
+  Top Features: Index(['hour', 'age', 'gender_m', 'gender_f', 'category_gas_transport'], dtype='object')
+  Mean Values:
+    hour: 1.403544893899702
+    age: 1.7340434026974658
+    gender_m: 5.363847243555728
+    gender_f: 5.363847243555728
+    category_gas_transport: 6.0194719496971825
+
+Feature Contributors for Weight: 3.5
+Cluster 7:
+  Top Features: Index(['city_freq', 'gender_f', 'gender_m', 'zip', 'city_pop'], dtype='object')
+  Mean Values:
+    city_freq: 2.152735256415081
+    gender_f: 2.28380851351005
+    gender_m: 2.28380851351005
+    zip: 3.667624049239079
+    city_pop: 8.989358921449446
+
+Feature Contributors for Weight: 3.5
+Cluster 8:
+  Top Features: Index(['age', 'merchant_freq', 'gender_f', 'gender_m', 'category_grocery_net'], dtype='object')
+  Mean Values:
+    age: 1.7591906054257302
+    merchant_freq: 1.9364294115982426
+    gender_f: 2.283808513510051
+    gender_m: 2.283808513510051
+    category_grocery_net: 8.174928584663046
+
+Feature Contributors for Weight: 3.5
+Cluster 9:
+  Top Features: Index(['hour', 'merchant_freq', 'gender_f', 'gender_m', 'category_home'], dtype='object')
+  Mean Values:
+    hour: 0.6894774107720731
+    merchant_freq: 0.8931335981910913
+    gender_f: 5.363847243555731
+    gender_m: 5.363847243555731
+    category_home: 5.3867571560876994
+
+Feature Contributors for Weight: 3.5
+Cluster 10:
+  Top Features: Index(['hour', 'merchant_freq', 'gender_m', 'gender_f',
+       'category_grocery_net'],
+      dtype='object')
+  Mean Values:
+    hour: 1.252150457907644
+    merchant_freq: 1.9281164039223473
+    gender_m: 5.36384724355575
+    gender_f: 5.36384724355575
+    category_grocery_net: 8.174928584663053
+
+Feature Contributors for Weight: 4.0
+Cluster -1:
+  Top Features: Index(['zip', 'gender_m', 'gender_f', 'age', 'category_travel'], dtype='object')
+  Mean Values:
+    zip: 1.1171565322601387
+    gender_m: 2.44699781372747
+    gender_f: 2.44699781372747
+    age: 2.6436891234891062
+    category_travel: 2.646388271961689
+
+Feature Contributors for Weight: 4.0
+Cluster 0:
+  Top Features: Index(['category_grocery_pos', 'category_home', 'age', 'gender_m', 'gender_f'], dtype='object')
+  Mean Values:
+    category_grocery_pos: 0.18380555240060772
+    category_home: 0.18564044582370937
+    age: 0.501498401845304
+    gender_m: 2.6100668725822915
+    gender_f: 2.6100668725822915
+
+Feature Contributors for Weight: 4.0
+Cluster 1:
+  Top Features: Index(['first_freq', 'zip', 'age', 'gender_m', 'gender_f'], dtype='object')
+  Mean Values:
+    first_freq: 0.27690995738741936
+    zip: 0.3655598781775951
+    age: 0.754319772354014
+    gender_m: 6.130111135491737
+    gender_f: 6.130111135491737
+
+Feature Contributors for Weight: 4.0
+Cluster 2:
+  Top Features: Index(['hour', 'merchant_freq', 'gender_m', 'gender_f', 'category_home'], dtype='object')
+  Mean Values:
+    hour: 0.6756374208948173
+    merchant_freq: 0.884805480067716
+    gender_m: 2.6100668725829257
+    gender_f: 2.6100668725829257
+    category_home: 5.386757156087698
+
+Feature Contributors for Weight: 4.0
+Cluster 3:
+  Top Features: Index(['hour', 'zip', 'gender_f', 'gender_m', 'category_food_dining'], dtype='object')
+  Mean Values:
+    hour: 0.7267003803346388
+    zip: 0.7276593037847716
+    gender_f: 2.610066872582923
+    gender_m: 2.610066872582923
+    category_food_dining: 6.563581684873336
+
+Feature Contributors for Weight: 4.0
+Cluster 4:
+  Top Features: Index(['hour', 'age', 'gender_m', 'gender_f', 'category_kids_pets'], dtype='object')
+  Mean Values:
+    hour: 1.2617384424195954
+    age: 1.486344804527987
+    gender_m: 2.610066872582925
+    gender_f: 2.610066872582925
+    category_kids_pets: 7.051569873521702
+
+Feature Contributors for Weight: 4.0
+Cluster 5:
+  Top Features: Index(['hour', 'age', 'gender_f', 'gender_m', 'category_gas_transport'], dtype='object')
+  Mean Values:
+    hour: 1.4049786518557577
+    age: 2.1229952161928436
+    gender_f: 2.610066872582922
+    gender_m: 2.610066872582922
+    category_gas_transport: 6.0194719496971825
+
+Feature Contributors for Weight: 4.0
+Cluster 6:
+  Top Features: Index(['hour', 'age', 'category_gas_transport', 'gender_m', 'gender_f'], dtype='object')
+  Mean Values:
+    hour: 1.4042196938997358
+    age: 2.01325203866193
+    category_gas_transport: 6.019471949697183
+    gender_m: 6.1301111354922915
+    gender_f: 6.1301111354922915
+
+Feature Contributors for Weight: 4.0
+Cluster 7:
+  Top Features: Index(['age', 'gender_f', 'gender_m', 'zip', 'city_pop'], dtype='object')
+  Mean Values:
+    age: 2.1534340264319174
+    gender_f: 2.610066872582907
+    gender_m: 2.610066872582907
+    zip: 4.191570341987517
+    city_pop: 8.989358921449446
+
+Feature Contributors for Weight: 4.0
+Cluster 8:
+  Top Features: Index(['zip', 'gender_m', 'gender_f', 'age', 'category_grocery_net'], dtype='object')
+  Mean Values:
+    zip: 2.4319562248027786
+    gender_m: 2.610066872582911
+    gender_f: 2.610066872582911
+    age: 2.8727538036614666
+    category_grocery_net: 8.174928584663036
+
+Feature Contributors for Weight: 4.0
+Cluster 9:
+  Top Features: Index(['zip', 'merchant_freq', 'category_home', 'gender_m', 'gender_f'], dtype='object')
+  Mean Values:
+    zip: 0.745869302833565
+    merchant_freq: 0.8936003717048518
+    category_home: 5.386757156087699
+    gender_m: 6.1301111354922675
+    gender_f: 6.1301111354922675
+
+Feature Contributors for Weight: 4.0
+Cluster 10:
+  Top Features: Index(['hour', 'merchant_freq', 'gender_m', 'gender_f',
+       'category_grocery_net'],
+      dtype='object')
+  Mean Values:
+    hour: 1.2728337375369934
+    merchant_freq: 1.9309419644558647
+    gender_m: 6.130111135492274
+    gender_f: 6.130111135492274
+    category_grocery_net: 8.17492858466306
+
+Feature Contributors for Weight: 4.5
+Cluster -1:
+  Top Features: Index(['zip', 'category_travel', 'age', 'gender_f', 'gender_m'], dtype='object')
+  Mean Values:
+    zip: 1.1837954011209246
+    category_travel: 1.9890013058855536
+    age: 2.744512624085145
+    gender_f: 2.9058632405092983
+    gender_m: 2.9058632405092983
+
+Feature Contributors for Weight: 4.5
+Cluster 0:
+  Top Features: Index(['category_grocery_pos', 'category_home', 'age', 'gender_m', 'gender_f'], dtype='object')
+  Mean Values:
+    category_grocery_pos: 0.1846903036444962
+    category_home: 0.18564044582370928
+    age: 0.573653066553217
+    gender_m: 2.9363252316552377
+    gender_f: 2.9363252316552377
+
+Feature Contributors for Weight: 4.5
+Cluster 1:
+  Top Features: Index(['first_freq', 'zip', 'age', 'gender_f', 'gender_m'], dtype='object')
+  Mean Values:
+    first_freq: 0.27743938175483757
+    zip: 0.42717864534121075
+    age: 0.8463286960096598
+    gender_f: 6.896375027429615
+    gender_m: 6.896375027429615
+
+Feature Contributors for Weight: 4.5
+Cluster 2:
+  Top Features: Index(['hour', 'merchant_freq', 'gender_m', 'gender_f', 'category_home'], dtype='object')
+  Mean Values:
+    hour: 0.6814631690573548
+    merchant_freq: 0.8837470301546151
+    gender_m: 2.9363252316557897
+    gender_f: 2.9363252316557897
+    category_home: 5.386757156087699
+
+Feature Contributors for Weight: 4.5
+Cluster 3:
+  Top Features: Index(['hour', 'zip', 'gender_m', 'gender_f', 'category_food_dining'], dtype='object')
+  Mean Values:
+    hour: 0.7162854584455048
+    zip: 1.2357798264909543
+    gender_m: 2.9363252316557813
+    gender_f: 2.9363252316557813
+    category_food_dining: 6.56358168487334
+
+Feature Contributors for Weight: 4.5
+Cluster 4:
+  Top Features: Index(['hour', 'age', 'gender_m', 'gender_f', 'category_kids_pets'], dtype='object')
+  Mean Values:
+    hour: 1.2609604560668104
+    age: 1.8756726798373664
+    gender_m: 2.9363252316557875
+    gender_f: 2.9363252316557875
+    category_kids_pets: 7.051569873521703
+
+Feature Contributors for Weight: 4.5
+Cluster 5:
+  Top Features: Index(['hour', 'age', 'gender_m', 'gender_f', 'category_gas_transport'], dtype='object')
+  Mean Values:
+    hour: 1.3989723685263393
+    age: 2.511916759654796
+    gender_m: 2.936325231655779
+    gender_f: 2.936325231655779
+    category_gas_transport: 6.0194719496971825
+
+Feature Contributors for Weight: 4.5
+Cluster 6:
+  Top Features: Index(['hour', 'age', 'category_gas_transport', 'gender_m', 'gender_f'], dtype='object')
+  Mean Values:
+    hour: 1.4038497289245928
+    age: 2.334374710959732
+    category_gas_transport: 6.019471949697183
+    gender_m: 6.896375027428804
+    gender_f: 6.896375027428804
+
+Feature Contributors for Weight: 4.5
+Cluster 7:
+  Top Features: Index(['age', 'gender_f', 'gender_m', 'zip', 'city_pop'], dtype='object')
+  Mean Values:
+    age: 2.422613279735907
+    gender_f: 2.936325231655778
+    gender_m: 2.936325231655778
+    zip: 4.715516634735958
+    city_pop: 8.989358921449446
+
+Feature Contributors for Weight: 4.5
+Cluster 8:
+  Top Features: Index(['zip', 'gender_m', 'gender_f', 'age', 'category_grocery_net'], dtype='object')
+  Mean Values:
+    zip: 2.8767499214417467
+    gender_m: 2.936325231655775
+    gender_f: 2.936325231655775
+    age: 3.6984568652126506
+    category_grocery_net: 8.17492858466304
+
+Feature Contributors for Weight: 4.5
+Cluster 9:
+  Top Features: Index(['merchant_freq', 'zip', 'category_home', 'gender_f', 'gender_m'], dtype='object')
+  Mean Values:
+    merchant_freq: 0.8874146448359208
+    zip: 2.1350529589987124
+    category_home: 5.3867571560876994
+    gender_f: 6.896375027428804
+    gender_m: 6.896375027428805
+
+Feature Contributors for Weight: 5.0
+Cluster -1:
+  Top Features: Index(['zip', 'category_travel', 'gender_m', 'gender_f', 'age'], dtype='object')
+  Mean Values:
+    zip: 1.3301434101099623
+    category_travel: 1.53953422356068
+    gender_m: 2.996478116718165
+    gender_f: 2.996478116718165
+    age: 2.9981212289289987
+
+Feature Contributors for Weight: 5.0
+Cluster 0:
+  Top Features: Index(['category_home', 'category_grocery_pos', 'age', 'gender_m', 'gender_f'], dtype='object')
+  Mean Values:
+    category_home: 0.18564044582370906
+    category_grocery_pos: 0.18666722239044709
+    age: 0.6594271863225679
+    gender_m: 3.2625835907283114
+    gender_f: 3.2625835907283114
+
+Feature Contributors for Weight: 5.0
+Cluster 1:
+  Top Features: Index(['category_misc_net', 'zip', 'age', 'gender_f', 'gender_m'], dtype='object')
+  Mean Values:
+    category_misc_net: 0.27588869573452207
+    zip: 0.5020039542227491
+    age: 0.905436279908388
+    gender_f: 7.662638919365919
+    gender_m: 7.662638919365919
+
+Feature Contributors for Weight: 5.0
+Cluster 2:
+  Top Features: Index(['hour', 'merchant_freq', 'gender_m', 'gender_f', 'category_home'], dtype='object')
+  Mean Values:
+    hour: 0.6911872569224417
+    merchant_freq: 0.8825083318499677
+    gender_m: 3.2625835907286107
+    gender_f: 3.2625835907286107
+    category_home: 5.386757156087699
+
+Feature Contributors for Weight: 5.0
+Cluster 3:
+  Top Features: Index(['hour', 'age', 'gender_m', 'gender_f', 'category_kids_pets'], dtype='object')
+  Mean Values:
+    hour: 1.2607079678706659
+    age: 2.250236248860638
+    gender_m: 3.2625835907286125
+    gender_f: 3.2625835907286125
+    category_kids_pets: 7.051569873521704
+
+Feature Contributors for Weight: 5.0
+Cluster 4:
+  Top Features: Index(['hour', 'age', 'gender_m', 'gender_f', 'category_gas_transport'], dtype='object')
+  Mean Values:
+    hour: 1.3883479713352873
+    age: 2.9837191808637655
+    gender_m: 3.2625835907286254
+    gender_f: 3.2625835907286254
+    category_gas_transport: 6.019471949697185
+
+Feature Contributors for Weight: 5.0
+Cluster 5:
+  Top Features: Index(['hour', 'age', 'category_gas_transport', 'gender_m', 'gender_f'], dtype='object')
+  Mean Values:
+    hour: 1.4143739722839366
+    age: 2.0580148910304974
+    category_gas_transport: 6.019471949697185
+    gender_m: 7.662638919365309
+    gender_f: 7.662638919365309
+
+Feature Contributors for Weight: 5.0
+Cluster 6:
+  Top Features: Index(['age', 'gender_f', 'gender_m', 'zip', 'city_pop'], dtype='object')
+  Mean Values:
+    age: 2.6917925330398935
+    gender_f: 3.2625835907286382
+    gender_m: 3.2625835907286382
+    zip: 5.239462927484402
+    city_pop: 8.989358921449446
+
+Feature Contributors for Weight: 5.0
+Cluster 7:
+  Top Features: Index(['zip', 'gender_m', 'gender_f', 'age', 'category_grocery_net'], dtype='object')
+  Mean Values:
+    zip: 3.1964856023117965
+    gender_m: 3.2625835907286382
+    gender_f: 3.2625835907286382
+    age: 4.176953532038628
+    category_grocery_net: 8.17492858466304
+
+Feature Contributors for Weight: 5.0
+Cluster 8:
+  Top Features: Index(['age', 'zip', 'gender_f', 'gender_m', 'category_food_dining'], dtype='object')
+  Mean Values:
+    age: 0.9651596872920097
+    zip: 2.5370620501198538
+    gender_f: 3.2625835907286267
+    gender_m: 3.2625835907286267
+    category_food_dining: 6.5635816848733555
+
+Feature Contributors for Weight: 5.0
+Cluster 9:
+  Top Features: Index(['merchant_freq', 'zip', 'category_home', 'gender_f', 'gender_m'], dtype='object')
+  Mean Values:
+    merchant_freq: 0.8758424786067073
+    zip: 2.4318215342475913
+    category_home: 5.386757156087701
+    gender_f: 7.662638919365348
+    gender_m: 7.662638919365348
+
+Feature Contributors for Weight: 6.0
+Cluster -1:
+  Top Features: Index(['category_travel', 'zip', 'gender_f', 'gender_m', 'age'], dtype='object')
+  Mean Values:
+    category_travel: 1.0527408120197266
+    zip: 1.2717601783107897
+    gender_f: 2.786844697877512
+    gender_m: 2.786844697877512
+    age: 3.1360830362996017
+
+Feature Contributors for Weight: 6.0
+Cluster 0:
+  Top Features: Index(['category_home', 'category_grocery_pos', 'age', 'gender_m', 'gender_f'], dtype='object')
+  Mean Values:
+    category_home: 0.1856404458237088
+    category_grocery_pos: 0.18884490332852014
+    age: 0.8372413962641627
+    gender_m: 3.915100308874571
+    gender_f: 3.915100308874571
+
+Feature Contributors for Weight: 6.0
+Cluster 1:
+  Top Features: Index(['category_misc_net', 'zip', 'age', 'gender_m', 'gender_f'], dtype='object')
+  Mean Values:
+    category_misc_net: 0.2878325677119784
+    zip: 0.607632353466663
+    age: 1.079456260433306
+    gender_m: 9.195166703238316
+    gender_f: 9.195166703238316
+
+Feature Contributors for Weight: 6.0
+Cluster 2:
+  Top Features: Index(['zip', 'age', 'gender_m', 'gender_f', 'category_home'], dtype='object')
+  Mean Values:
+    zip: 1.5613159107662924
+    age: 1.5848436321206456
+    gender_m: 3.91510030887435
+    gender_f: 3.915100308874351
+    category_home: 5.386757156087699
+
+Feature Contributors for Weight: 6.0
+Cluster 3:
+  Top Features: Index(['hour', 'age', 'gender_m', 'gender_f', 'category_kids_pets'], dtype='object')
+  Mean Values:
+    hour: 1.261506474641097
+    age: 3.061273767605887
+    gender_m: 3.9151003088743495
+    gender_f: 3.9151003088743503
+    category_kids_pets: 7.051569873521707
+
+Feature Contributors for Weight: 6.0
+Cluster 4:
+  Top Features: Index(['hour', 'age', 'category_gas_transport', 'gender_m', 'gender_f'], dtype='object')
+  Mean Values:
+    hour: 1.4111819841509583
+    age: 2.9165273993678156
+    category_gas_transport: 6.019471949697187
+    gender_m: 9.19516670323839
+    gender_f: 9.19516670323839
+
+Feature Contributors for Weight: 6.0
+Cluster 5:
+  Top Features: Index(['age', 'gender_m', 'gender_f', 'zip', 'city_pop'], dtype='object')
+  Mean Values:
+    age: 3.2301510396478736
+    gender_m: 3.9151003088743637
+    gender_f: 3.9151003088743668
+    zip: 6.287355512981269
+    city_pop: 8.989358921449446
+
+Feature Contributors for Weight: 6.0
+Cluster 6:
+  Top Features: Index(['gender_m', 'gender_f', 'zip', 'age', 'category_grocery_net'], dtype='object')
+  Mean Values:
+    gender_m: 3.915100308874363
+    gender_f: 3.915100308874366
+    zip: 4.105809678832658
+    age: 6.238112615632381
+    category_grocery_net: 8.17492858466305
+
+Feature Contributors for Weight: 6.0
+Cluster 7:
+  Top Features: Index(['zip', 'gender_m', 'gender_f', 'age', 'category_gas_transport'], dtype='object')
+  Mean Values:
+    zip: 2.184667709817842
+    gender_m: 3.9151003088743592
+    gender_f: 3.9151003088743614
+    age: 5.9954224415351804
+    category_gas_transport: 6.019471949697208
+
+Feature Contributors for Weight: 6.0
+Cluster 8:
+  Top Features: Index(['age', 'gender_m', 'gender_f', 'zip', 'category_food_dining'], dtype='object')
+  Mean Values:
+    age: 3.7221163386703044
+    gender_m: 3.9151003088743566
+    gender_f: 3.9151003088743583
+    zip: 4.521852924224596
+    category_food_dining: 6.563581684873375
+
+Feature Contributors for Weight: 7.0
+Cluster -1:
+  Top Features: Index(['category_home', 'zip', 'gender_m', 'gender_f', 'age'], dtype='object')
+  Mean Values:
+    category_home: 0.893040070522628
+    zip: 1.3384095915860095
+    gender_m: 2.640443978160392
+    gender_f: 2.640443978160392
+    age: 3.635393757969069
+
+Feature Contributors for Weight: 7.0
+Cluster 0:
+  Top Features: Index(['category_home', 'category_grocery_pos', 'age', 'gender_m', 'gender_f'], dtype='object')
+  Mean Values:
+    category_home: 0.18564044582370823
+    category_grocery_pos: 0.19139486390160151
+    age: 1.108022988492089
+    gender_m: 4.567617027021016
+    gender_f: 4.567617027021016
+
+Feature Contributors for Weight: 7.0
+Cluster 1:
+  Top Features: Index(['category_misc_net', 'zip', 'age', 'gender_m', 'gender_f'], dtype='object')
+  Mean Values:
+    category_misc_net: 0.3038996975204472
+    zip: 0.7745855438357386
+    age: 1.164565188932862
+    gender_m: 10.727694487111833
+    gender_f: 10.727694487111833
+
+Feature Contributors for Weight: 7.0
+Cluster 2:
+  Top Features: Index(['zip', 'gender_m', 'gender_f', 'age', 'category_kids_pets'], dtype='object')
+  Mean Values:
+    zip: 2.4899124986741126
+    gender_m: 4.567617027020104
+    gender_f: 4.567617027020104
+    age: 4.737386310786716
+    category_kids_pets: 7.051569873521722
+
+Feature Contributors for Weight: 7.0
+Cluster 3:
+  Top Features: Index(['hour', 'age', 'category_gas_transport', 'gender_m', 'gender_f'], dtype='object')
+  Mean Values:
+    hour: 1.4089037771398225
+    age: 2.9521458465769626
+    category_gas_transport: 6.019471949697192
+    gender_m: 10.727694487111473
+    gender_f: 10.727694487111473
+
+Feature Contributors for Weight: 7.0
+Cluster 4:
+  Top Features: Index(['age', 'gender_f', 'gender_m', 'zip', 'city_pop'], dtype='object')
+  Mean Values:
+    age: 3.7685095462558498
+    gender_f: 4.5676170270201
+    gender_m: 4.5676170270201
+    zip: 7.335248098478158
+    city_pop: 8.989358921449446
+
+Feature Contributors for Weight: 7.0
+Cluster 5:
+  Top Features: Index(['gender_f', 'gender_m', 'zip', 'age', 'category_grocery_net'], dtype='object')
+  Mean Values:
+    gender_f: 4.5676170270201
+    gender_m: 4.5676170270201
+    zip: 5.144672463161021
+    age: 7.2272168410389215
+    category_grocery_net: 8.174928584663053
+
+Feature Contributors for Weight: 7.0
+Cluster 6:
+  Top Features: Index(['age', 'gender_m', 'gender_f', 'zip', 'category_home'], dtype='object')
+  Mean Values:
+    age: 3.8089716210196736
+    gender_m: 4.567617027020102
+    gender_f: 4.567617027020102
+    zip: 5.199638742721109
+    category_home: 5.3867571560876994
+
+Feature Contributors for Weight: 7.0
+Cluster 7:
+  Top Features: Index(['zip', 'gender_f', 'gender_m', 'category_gas_transport', 'age'], dtype='object')
+  Mean Values:
+    zip: 1.787049442368884
+    gender_f: 4.5676170270201
+    gender_m: 4.5676170270201
+    category_gas_transport: 6.019471949697216
+    age: 7.284136357786569
+
+Feature Contributors for Weight: 7.0
+Cluster 8:
+  Top Features: Index(['gender_f', 'gender_m', 'zip', 'age', 'category_food_dining'], dtype='object')
+  Mean Values:
+    gender_f: 4.567617027020099
+    gender_m: 4.567617027020099
+    zip: 5.450704545306257
+    age: 6.41510079495818
+    category_food_dining: 6.563581684873369
+
+Feature Contributors for Weight: 8.0
+Cluster -1:
+  Top Features: Index(['category_home', 'zip', 'gender_m', 'gender_f', 'age'], dtype='object')
+  Mean Values:
+    category_home: 0.8063858310117116
+    zip: 1.1689699743252506
+    gender_m: 2.5901087724813427
+    gender_f: 2.5901087724813427
+    age: 3.758402153299366
+
+Feature Contributors for Weight: 8.0
+Cluster 0:
+  Top Features: Index(['category_home', 'category_grocery_pos', 'age', 'gender_f', 'gender_m'], dtype='object')
+  Mean Values:
+    category_home: 0.18564044582370762
+    category_grocery_pos: 0.19586266052923404
+    age: 1.35205986528946
+    gender_f: 5.220133745164651
+    gender_m: 5.220133745164651
+
+Feature Contributors for Weight: 8.0
+Cluster 1:
+  Top Features: Index(['category_misc_net', 'zip', 'age', 'gender_f', 'gender_m'], dtype='object')
+  Mean Values:
+    category_misc_net: 0.31173760215043506
+    zip: 0.8638171361933266
+    age: 1.1087630671492115
+    gender_f: 12.260222270983553
+    gender_m: 12.260222270983553
+
+Feature Contributors for Weight: 8.0
+Cluster 2:
+  Top Features: Index(['hour', 'age', 'category_gas_transport', 'gender_m', 'gender_f'], dtype='object')
+  Mean Values:
+    hour: 1.4189085791542044
+    age: 3.451955218130733
+    category_gas_transport: 6.019471949697193
+    gender_m: 12.260222270984528
+    gender_f: 12.260222270984528
+
+Feature Contributors for Weight: 8.0
+Cluster 3:
+  Top Features: Index(['age', 'gender_f', 'gender_m', 'zip', 'city_pop'], dtype='object')
+  Mean Values:
+    age: 4.306868052863835
+    gender_f: 5.220133745165814
+    gender_m: 5.220133745165814
+    zip: 8.383140683975034
+    city_pop: 8.989358921449446
+
+Feature Contributors for Weight: 8.0
+Cluster 4:
+  Top Features: Index(['zip', 'gender_m', 'gender_f', 'age', 'category_kids_pets'], dtype='object')
+  Mean Values:
+    zip: 4.472512474155078
+    gender_m: 5.22013374516583
+    gender_f: 5.22013374516583
+    age: 6.2537039914008234
+    category_kids_pets: 7.05156987352175
+
+Feature Contributors for Weight: 8.0
+Cluster 5:
+  Top Features: Index(['gender_f', 'gender_m', 'zip', 'category_grocery_net', 'age'], dtype='object')
+  Mean Values:
+    gender_f: 5.220133745165816
+    gender_m: 5.220133745165816
+    zip: 7.734025458495751
+    category_grocery_net: 8.17492858466306
+    age: 8.182962029798599
+
+Feature Contributors for Weight: 8.0
+Cluster 6:
+  Top Features: Index(['gender_f', 'gender_m', 'category_home', 'age', 'zip'], dtype='object')
+  Mean Values:
+    gender_f: 5.220133745165815
+    gender_m: 5.220133745165815
+    category_home: 5.386757156087701
+    age: 5.4293963692150875
+    zip: 6.650140049732008
+
+Feature Contributors for Weight: 8.0
+Cluster 7:
+  Top Features: Index(['zip', 'gender_f', 'gender_m', 'category_gas_transport', 'age'], dtype='object')
+  Mean Values:
+    zip: 3.91540957906377
+    gender_f: 5.220133745165816
+    gender_m: 5.220133745165816
+    category_gas_transport: 6.019471949697214
+    age: 8.443508691602291
+
+Feature Contributors for Weight: 9.0
+Cluster -1:
+  Top Features: Index(['category_home', 'zip', 'gender_f', 'gender_m', 'age'], dtype='object')
+  Mean Values:
+    category_home: 0.7812368761746343
+    zip: 1.0397929986904955
+    gender_f: 2.4266167791777535
+    gender_m: 2.4266167791777535
+    age: 4.204238356780862
+
+Feature Contributors for Weight: 9.0
+Cluster 0:
+  Top Features: Index(['category_home', 'category_grocery_pos', 'age', 'gender_f', 'gender_m'], dtype='object')
+  Mean Values:
+    category_home: 0.1856404458237066
+    category_grocery_pos: 0.19989924672553394
+    age: 1.710362978683551
+    gender_f: 5.872650463310563
+    gender_m: 5.872650463310563
+
+Feature Contributors for Weight: 9.0
+Cluster 1:
+  Top Features: Index(['category_misc_net', 'zip', 'age', 'gender_f', 'gender_m'], dtype='object')
+  Mean Values:
+    category_misc_net: 0.3182193971561636
+    zip: 1.1158526335840706
+    age: 1.1227512021774833
+    gender_f: 13.792750054858887
+    gender_m: 13.792750054858887
+
+Feature Contributors for Weight: 9.0
+Cluster 2:
+  Top Features: Index(['hour', 'age', 'category_gas_transport', 'gender_f', 'gender_m'], dtype='object')
+  Mean Values:
+    hour: 1.421691104734555
+    age: 4.049442594760829
+    category_gas_transport: 6.019471949697195
+    gender_f: 13.792750054857608
+    gender_m: 13.79275005485761
+
+Feature Contributors for Weight: 9.0
+Cluster 3:
+  Top Features: Index(['age', 'gender_f', 'gender_m', 'city_pop', 'zip'], dtype='object')
+  Mean Values:
+    age: 4.845226559471814
+    gender_f: 5.872650463311556
+    gender_m: 5.872650463311556
+    city_pop: 8.989358921449446
+    zip: 9.431033269471916
+
+Feature Contributors for Weight: 9.0
+Cluster 4:
+  Top Features: Index(['gender_f', 'gender_m', 'zip', 'age', 'category_kids_pets'], dtype='object')
+  Mean Values:
+    gender_f: 5.872650463311553
+    gender_m: 5.872650463311553
+    zip: 6.628812768262352
+    age: 6.834052528934458
+    category_kids_pets: 7.051569873521741
+
+Feature Contributors for Weight: 9.0
+Cluster 5:
+  Top Features: Index(['gender_f', 'gender_m', 'category_grocery_net', 'zip', 'age'], dtype='object')
+  Mean Values:
+    gender_f: 5.872650463311549
+    gender_m: 5.872650463311549
+    category_grocery_net: 8.17492858466306
+    zip: 8.614482244452143
+    age: 9.267704389097913
+
+Feature Contributors for Weight: 10.0
+Cluster -1:
+  Top Features: Index(['category_home', 'zip', 'gender_f', 'gender_m', 'age'], dtype='object')
+  Mean Values:
+    category_home: 0.66480662274028
+    zip: 0.850479697621257
+    gender_f: 2.7240918755175287
+    gender_m: 2.7240918755175287
+    age: 4.902068691026727
+
+Feature Contributors for Weight: 10.0
+Cluster 0:
+  Top Features: Index(['category_home', 'category_grocery_pos', 'age', 'gender_m', 'gender_f'], dtype='object')
+  Mean Values:
+    category_home: 0.1856404458237055
+    category_grocery_pos: 0.2074152378782684
+    age: 2.1818902207397457
+    gender_m: 6.525167181456359
+    gender_f: 6.525167181456359
+
+Feature Contributors for Weight: 10.0
+Cluster 1:
+  Top Features: Index(['category_misc_net', 'age', 'zip', 'gender_m', 'gender_f'], dtype='object')
+  Mean Values:
+    category_misc_net: 0.3262398597303754
+    age: 0.9721471436814545
+    zip: 1.1730365560197293
+    gender_m: 15.325277838731747
+    gender_f: 15.325277838731747
+
+Feature Contributors for Weight: 10.0
+Cluster 2:
+  Top Features: Index(['age', 'gender_f', 'gender_m', 'city_pop', 'zip'], dtype='object')
+  Mean Values:
+    age: 5.383585066079787
+    gender_f: 6.5251671814572765
+    gender_m: 6.5251671814572765
+    city_pop: 8.989358921449446
+    zip: 10.478925854968804
+
+Feature Contributors for Weight: 10.0
+Cluster 3:
+  Top Features: Index(['zip', 'age', 'category_gas_transport', 'gender_m', 'gender_f'], dtype='object')
+  Mean Values:
+    zip: 3.270380414244573
+    age: 5.411674147704719
+    category_gas_transport: 6.019471949697212
+    gender_m: 15.325277838730697
+    gender_f: 15.325277838730697
+
+Feature Contributors for Weight: 10.0
+Cluster 4:
+  Top Features: Index(['zip', 'gender_m', 'gender_f', 'category_kids_pets', 'age'], dtype='object')
+  Mean Values:
+    zip: 6.137210654962607
+    gender_m: 6.5251671814572765
+    gender_f: 6.5251671814572765
+    category_kids_pets: 7.051569873521729
+    age: 7.994217671109185
+
